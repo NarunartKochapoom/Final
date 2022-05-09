@@ -1,0 +1,48 @@
+*{
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline:none; 
+    border:none;
+
+}
+.col-auto{
+  font-size: 1.3rem;
+ 
+ margin-left: 2rem;
+}
+body{
+    background: rgb(139, 139, 139);
+    }
+.col-auto{
+    display: inline-block;
+
+    font-size: 1.3rem;
+}
+.btn {
+    font-size: 2rem;
+    margin-top:1rem ;
+    display: inline-block;
+    padding: .5rem .5rem;
+    font-size: 1rem;
+    border-radius: .5rem;
+    border: .2rem solid var(--black);
+    color: var(--black);
+    cursor: pointer;
+}
+ .btn:hover{
+    background: #29074b;
+
+ }
+ .name h2{
+     font-size: 7ram;
+
+ }
+ p {
+    border: 2px solid rgb(117, 1, 146);
+    outline: #c4e4f7 solid 10px;
+    margin: 2rem;
+    padding: 2rem;
+    text-align: left;
+  }
